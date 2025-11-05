@@ -2,6 +2,9 @@
 this
 <h1>this </h1>
 git remote add origan
-<br\>
+<br>
 git push origan master
+<br>
+ git pull origin master
+
 
